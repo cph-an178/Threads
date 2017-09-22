@@ -1,7 +1,7 @@
 # Threads
-We learn Threads! 
+OBS: Se Tester class for anwsers
 
-## threadExercises --> Source Packages 
+### threadExercises --> Source Packages 
 
 **Threads Exercise 1 see:** 
 - day1.exercise1
@@ -16,6 +16,6 @@ We learn Threads!
 - day2.webscrapprodcon
 
 
-## Threads-3 --> Source Packages
+### Threads-3 --> Source Packages
 **Threads Exercise 3 see:**
 - ex20
